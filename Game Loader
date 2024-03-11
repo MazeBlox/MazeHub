@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MazeBlox/959597cabff35751ae40193f61bee439/raw/da91df363607a8de22971f5183ec5484c19e778f/MazeHubLoader.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MazeBlox/959597cabff35751ae40193f61bee439/raw/ae0e914903edc7f6d722e73085dbac0a2ab4a71b/MazeHubLoader.lua"))()
 
 --// Use this to automatically load the correct script for the correct game & not having to search for it! \\--
