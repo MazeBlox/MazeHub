@@ -8,7 +8,7 @@ MazeHub is a Roblox script *soon* supporting **many** games! We are soon offerin
 
 # Disclaimer
 
-Incase we have used any of your scripts in the making of our hub, feel free to contact me via Discord (@mazeainthere) if you want mr to remove it. Thanks!
+Incase we have used any of your scripts in the making of our hub, feel free to contact me via Discord (@mazeainthere) if you want me to remove it. Thanks!
 
 ---
 
