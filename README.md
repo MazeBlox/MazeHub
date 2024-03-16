@@ -6,6 +6,7 @@ MazeHub is a Roblox script *soon* supporting **many** games! We are soon offerin
 * **Universal Script** (for unsupported games)
 * **Tower of Hell**
 * **Slap Battles**
+* **Da Hood**
 
 # Disclaimer
 
