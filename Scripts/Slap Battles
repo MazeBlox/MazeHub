@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MazeBlox/7e806105802996ec0813255cf0cc330f/raw/e4c03cf43b25f509e4597e84d1e221be929ea0f3/MazeHubSlapBattlesLoader.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MazeBlox/003a8aeca121a42a1f9353dc2664c8f5/raw/f73dcc4477965b7518ca63057262cbd1a8f7a236/MazeHubSlapBattlesLoader.lua"))()
