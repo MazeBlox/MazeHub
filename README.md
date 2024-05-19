@@ -1,6 +1,5 @@
 # MazeHub is discontinued at the time of making this change.
 
----
 
 # MazeHub
 MazeHub is a Roblox script *soon* supporting **many** games! We are soon offering ~~good~~ **amazing** scripts for games!
